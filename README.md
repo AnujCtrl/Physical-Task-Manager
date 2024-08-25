@@ -49,7 +49,8 @@
   - [ ] Implement SO alerting feature
 
 ## Technologies
-    - Rust
+    - Typescript
+    - Express
     - react
     - shadcdn
     - thermal printer
