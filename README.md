@@ -1,4 +1,4 @@
-# IDEA : Implement printer to do evaluate and improve productivity
+# IDEA : Implement printer to evaluate tasks and improve productivity
     - Tasks will be printed on a thermal printer with voice alerts and reminders, recreating the feeling of a physical to-do list.
     - Inspired by the show **The Bear**
 
