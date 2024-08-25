@@ -49,8 +49,7 @@
   - [ ] Implement SO alerting feature
 
 ## Technologies
-    - python
-    - flask
+    - Rust
     - react
     - shadcdn
     - thermal printer
