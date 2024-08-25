@@ -15,12 +15,12 @@
 
 ## Implementation
 - [ ] Todo App
-  - [ ] Add task
-    - [ ] Implement task name input
-    - [ ] Implement task description input
-    - [ ] Implement task deadline input
-    - [ ] Implement task priority input
-    - [ ] Implement task category input
+  - [x] Add task
+    - [x] Implement task name input
+    - [x] Implement task description input
+    - [x] Implement task deadline input
+    - [x] Implement task priority input
+    - [x] Implement task category input
     - [ ] Implement task printing functionality
   - [ ] Archive task
     - [ ] Implement archiving after task is done
